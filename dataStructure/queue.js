@@ -28,5 +28,5 @@ testQueue.enqueue(6);
 testQueue.enqueue(7);
 testQueue.print();
 
-testQueue.dequeue()
+testQueue.dequeue();
 testQueue.print();
